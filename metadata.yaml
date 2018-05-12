@@ -1,5 +1,8 @@
 _repo: Drum-Taps_8801
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Whitman, Walt
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/600
     wikipedia: http://en.wikipedia.org/wiki/Walt_Whitman
 description: '"Drum-Taps" is a sequence of poems about the Civil War.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8801#Drum-Taps
 gutenberg_bookshelf: Poetry
 gutenberg_issued: '2005-09-01'
 gutenberg_type: Text
